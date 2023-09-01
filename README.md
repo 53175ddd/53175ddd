@@ -1,11 +1,10 @@
 # Hi there 👋
 
-MOS
-
-My web site：[NchLab.net](https://github.com/Nch-Lab-net)  
+Web site1：[NchLab.net](https://github.com/Nch-Lab-net)  
+Web site2：[harusame.tech](https://harusame.tech)  
 Making Keyboard, CanSat, Inverter, and so on
 
-# Contact
+# Contact（MOS）
 
 Twitter：[@53175DDD](https://twitter.com/53175DDD)  
 Booth：<https://nch-mosfet.booth.pm/>  
@@ -15,6 +14,12 @@ Discord Server：<https://discord.gg/r3HeMB2B6a>
 Twitter アカウントの運用については、こちらの文書をご覧ください  
 [Twitter アカウント運用方針](./about-twitter.md)
 
+# Contact（はるさめ）
+
+Twitter：[@HarusameTech](https://twitter.com/HarusameTech)  
+Booth：[HarusameTech.booth.pm](https://HarusameTech.booth.pm/)  
+Discord：harusame.tech
+
 # Labels
 
 <p align="left"> 
@@ -23,13 +28,10 @@ Twitter アカウントの運用については、こちらの文書をご覧く
 </p>
 
 <p align="left">
-  <a href="https://github.com/Nch-MOSFET/Nch-MOSFET/">
-    <img height="30" src="https://komarev.com/ghpvc/?username=Nch-MOSFET" alt="Nch-MOSFET" />
+  <a href="https://github.com/53175ddd/53175ddd/">
+    <img height="30" src="https://komarev.com/ghpvc/?username=53175ddd" alt="53175ddd" />
   </a>
-  <a href="https://twitter.com/53175DDD">
-    <img height="30" src="https://img.shields.io/twitter/follow/53175DDD?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/Nch-MOSFET">
+  <a href="https://github.com/53175ddd">
     <img height="30" src="https://img.shields.io/github/followers/Nch-MOSFET?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/Nch-MOSFET">
@@ -39,18 +41,3 @@ Twitter アカウントの運用については、こちらの文書をご覧く
     <img height="30" src="https://qiita-badge.apiapi.app/s/Nch_MOSFET/contributions.svg" />
   </a>
 </p>
-
-<!--
-**Nch-MOSFET/Nch-MOSFET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
