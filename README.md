@@ -34,10 +34,4 @@ Discord：harusame.tech
   <a href="https://github.com/53175ddd">
     <img height="30" src="https://img.shields.io/github/followers/Nch-MOSFET?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/Nch-MOSFET">
-    <img height="30" src="https://qiita-badge.apiapi.app/s/Nch_MOSFET/posts.svg" />
-  </a>
-  <//qiita.com/Nch_MOSFET">
-    <img height="30" src="https://qiita-badge.apiapi.app/s/Nch_MOSFET/contributions.svg" />
-  </a>
 </p>
