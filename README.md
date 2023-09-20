@@ -32,6 +32,6 @@ Discord：harusame.tech
     <img height="30" src="https://komarev.com/ghpvc/?username=53175ddd" alt="53175ddd" />
   </a>
   <a href="https://github.com/53175ddd">
-    <img height="30" src="https://img.shields.io/github/followers/Nch-MOSFET?label=follow&logo=github&style=flat" />
+    <img height="30" src="https://img.shields.io/github/followers/53175ddd?label=follow&logo=github&style=flat" />
   </a>
 </p>
