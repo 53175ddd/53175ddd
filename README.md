@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Web site1：[NchLab.net](https://github.com/Nch-Lab-net)  
+Web site1：[NchLab.net](https://nchlab.net)  
 Web site2：[harusame.tech](https://harusame.tech)  
 Making Keyboard, CanSat, Inverter, and so on
 
