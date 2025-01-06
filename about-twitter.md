@@ -27,7 +27,7 @@
 
 ## 0 - はじめに
 
-**2023/01/25 付けで Twitter アカウントの ID を <a href="https://twitter.com/Nch_MOSFET">@Nch_MOSFET</a> から <a href="https://twitter.com/53175DDD">@53175DDD</a> に変更しました。元の ID はリンク切れ防止を兼ねてサブ垢用に使用しています。ご注意ください**
+**2023/01/25 付けで Twitter アカウントの ID を <a href="https://twitter.com/Nch_MOSFET">@Nch_MOSFET</a> から <a href="https://twitter.com/53175DDD">@53175DDD</a> に変更しました。**
 
 ## 1 - フォロー・フォローバック
 
