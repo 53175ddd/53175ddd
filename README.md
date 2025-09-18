@@ -11,7 +11,7 @@
 # Contact
 
 Twitter：[@53175DDD](https://x.com/53175DDD), [@0x5E788F1D](https://x.com/0x5E788F1D)  
-Booth：<https://nch-mosfet.booth.pm/>  
+Booth：\~\~\~ 準備中 \~\~\~  
 Discord：53175ddd  
 Discord Server：<https://discord.gg/r3HeMB2B6a>  
 E-Mail：[tatarariku@gmail.com](mailto:tatarariku@gmail.com), [53175ddd@gmail.com](mailto:53175ddd@gmail.com), [personal@mail.kitagawa-eizo.com](mailto:personal@mail.kitagawa-eizo.com)  
