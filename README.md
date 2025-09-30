@@ -8,7 +8,7 @@
 
 <https://www.kitagawa-eizo.com/>
 
-# Contact
+# Social
 
 Twitter：[@53175DDD](https://x.com/53175DDD), [@0x5E788F1D](https://x.com/0x5E788F1D)  
 Booth：\~\~\~ 準備中 \~\~\~  
