@@ -14,7 +14,11 @@ Twitter：[@53175DDD](https://x.com/53175DDD), [@0x5E788F1D](https://x.com/0x5E7
 Booth：\~\~\~ 準備中 \~\~\~  
 Discord：53175ddd  
 Discord Server：<https://discord.gg/r3HeMB2B6a>  
-E-Mail：[tatarariku@gmail.com](mailto:tatarariku@gmail.com), [53175ddd@gmail.com](mailto:53175ddd@gmail.com), [personal@mail.kitagawa-eizo.com](mailto:personal@mail.kitagawa-eizo.com)  
+E-Mail：以下よりいい感じにお選び下さい  
+- [53175ddd@gmail.com](mailto:53175ddd@gmail.com) // Gmail プライマリアドレス
+- [tatarariku@gmail.com](mailto:tatarariku@gmail.com) // Gmail セカンダリアドレス
+- [personal@mail.kitagawa-eizo.com](mailto:personal@mail.kitagawa-eizo.com) // 仕事用独自ドメインの個人用アドレス
+- [me@m.53175ddd.net](mailto:me@m.53175ddd.net) // 個人用独自ドメインのアドレス  
 
 Twitter アカウントの運用方針を公開しています．以下の文書をご覧ください．  
 [Twitter アカウント運用方針](./twitter.md)
