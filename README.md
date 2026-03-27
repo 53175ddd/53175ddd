@@ -17,8 +17,8 @@ Discord Server：<https://discord.gg/r3HeMB2B6a>
 E-Mail：以下よりいい感じにお選び下さい  
 - [53175ddd@gmail.com](mailto:53175ddd@gmail.com) // Gmail プライマリアドレス
 - [tatarariku@gmail.com](mailto:tatarariku@gmail.com) // Gmail セカンダリアドレス
-- [personal@mail.kitagawa-eizo.com](mailto:personal@mail.kitagawa-eizo.com) // 仕事用独自ドメインの個人用アドレス
-- [me@m.53175ddd.net](mailto:me@m.53175ddd.net) // 個人用独自ドメインのアドレス  
+- [personal@mail.kitagawa-eizo.com](mailto:personal@mail.kitagawa-eizo.com) // 事業用ドメインの窓口用アドレス
+- [k@kitagawa-eizo.com](mailto:k@kitagawa-eizo.com) // 事業用ドメインの個人用アドレス
 
 Twitter アカウントの運用方針を公開しています．以下の文書をご覧ください．  
 [Twitter アカウント運用方針](./twitter.md)
