@@ -11,7 +11,7 @@
 # Social
 
 Twitter：[@53175DDD](https://x.com/53175DDD), [@0x5E788F1D](https://x.com/0x5E788F1D)  
-Booth：\~\~\~ 準備中 \~\~\~  
+Booth：<https://mos-elecs.booth.pm/>  
 Discord：53175ddd  
 Discord Server：<https://discord.gg/r3HeMB2B6a>  
 E-Mail：以下よりいい感じにお選び下さい  
